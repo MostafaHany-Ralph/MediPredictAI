@@ -60,7 +60,7 @@ The goal of the project is to demonstrate how machine learning can be used to su
 ## ▶️ How to Run
 
 ```bash id="k2p9ld"
-git clone https://github.com/your-username/MediPredictAI.git
+git clone https://github.com/MostafaHany-Ralph/MediPredictAI.git
 cd MediPredictAI
 python main.py
 
